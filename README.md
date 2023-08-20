@@ -1,7 +1,7 @@
 #### Hi there, i am Moein Aghamirzaei 👋
 
 ### 💫 About Me :
-- 🌱 I’m currently learning .net 6 for backend
+- 🌱 I’m currently learning .net for backend
 
 ### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.moein.a) [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/moein_codeine) 
