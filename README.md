@@ -16,7 +16,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/wordpress-:?style=for-the-badge&logoColor=white&color=0073aa&logo=wordpress) 
-![linux](https://img.shields.io/badge/linux-%23000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![linux](https://img.shields.io/badge/linux-%23f2f2f2.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=mrmoein&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
