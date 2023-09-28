@@ -10,7 +10,6 @@
 ![devOps](https://img.shields.io/badge/devOps-:?style=for-the-badge&logoColor=white&color=db590d&logo=gitlab)
 ![.NET Core](https://img.shields.io/badge/.net%20core-%2357278b.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![angular](https://img.shields.io/badge/angular-bd0909.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
